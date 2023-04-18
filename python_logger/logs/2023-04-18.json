@@ -1,0 +1,1 @@
+{"timestamp": "2023-04-18T18:38:56.795368", "message": "This is a sample log for testing. No errors!", "service": {"name": "log_tester", "type": "logger", "environment": "test"}, "log": {"level": "info"}}
