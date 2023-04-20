@@ -27,6 +27,7 @@ def main():
             sample_log = create_error_log()
 
         file.write(json.dumps(sample_log))
+        file.write("\n")
         file.close()
     except Exception as e:
         print("Error executing the script ", str(e))

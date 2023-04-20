@@ -1,0 +1,4 @@
+{"timestamp": "2023-04-20T18:12:30.193373", "message": "This is a sample log for testing. No errors!", "service": {"name": "log_tester", "type": "logger", "environment": "test"}, "log": {"level": "info"}}
+{"timestamp": "2023-04-20T18:13:51.025532", "message": "This is a sample log for testing with errors!", "service": {"name": "log_tester", "type": "logger", "environment": "test"}, "log": {"level": "error"}}
+{"timestamp": "2023-04-20T18:16:43.932841", "message": "This is a sample log for testing. No errors!", "service": {"name": "log_tester", "type": "logger", "environment": "test"}, "log": {"level": "info"}}
+{"timestamp": "2023-04-20T18:17:00.509714", "message": "This is a sample log for testing with errors!", "service": {"name": "log_tester", "type": "logger", "environment": "test"}, "log": {"level": "error"}}
